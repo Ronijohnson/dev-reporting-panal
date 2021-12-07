@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.594" height="15.086" viewBox="0 0 21.594 15.086">
+  <g id="Group_14911" data-name="Group 14911" transform="translate(-21.406 -450.457)">
+    <g id="videocam-outline" transform="translate(-8.961 326.209)">
+      <path id="Path_20923" data-name="Path 20923" d="M368.274,150.287l3.339,2.35a.646.646,0,0,0,.908-.59v-7.781a.646.646,0,0,0-.908-.59l-3.339,2.35a.646.646,0,0,0-.274.528v3.205a.646.646,0,0,0,.274.528Z" transform="translate(-321.56 -16.366)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_20924" data-name="Path 20924" d="M42.045,141.086H34.213A2.474,2.474,0,0,1,32,138.428v-7.77A2.474,2.474,0,0,1,34.213,128h7.852a2.451,2.451,0,0,1,2.193,2.633v7.794A2.474,2.474,0,0,1,42.045,141.086Z" transform="translate(-0.633 -2.752)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <path id="star" d="M5.8,2,6.97,4.377l2.624.383L7.7,6.61l.448,2.612L5.8,7.988,3.45,9.222,3.9,6.61,2,4.76l2.624-.383Z" transform="translate(22.609 452.389)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
