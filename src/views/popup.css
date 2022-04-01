@@ -1,0 +1,73 @@
+.popup{
+    background-color: #E03249;
+    height: 162px;
+    border-radius: 0px 0px 14px 14px;
+}
+.popup-img{
+    width: 128px;
+    border-radius: 9pc;
+    margin-left: 41px;
+    margin-top: 24px;
+    border: none;
+}
+.main-popup-div{
+    width: 208px;
+    height: 313px;
+    position: absolute;
+    right: 1%;
+    top: 10%;
+    border-radius: 0px 0px 10px 10px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+
+}
+.ul-style{
+    list-style: none;
+    padding-left: 20px;
+    font-size: 13px;
+    background-color: #ffff;
+    
+    font-family: Open Sans, sans-serif;
+}
+.sign-out{
+   
+    display: flex;
+    align-items: center;
+    background-color: #E03249;
+    height: 60px;
+    border-radius: 0px 0px 10px 10px;
+
+}
+li:not(:first-child){
+    font-size:10px;
+    line-height: 15px;
+    letter-spacing: 0.17px;
+color: #838383;
+opacity: 1;
+     
+}
+.sign-out-heading{
+    text-align: center;
+font: normal normal bold 14px/16px Basis Grotesque Pro;
+letter-spacing: 1.25px;
+color: #FFFFFF;
+opacity: 1;
+font-size: 9px;
+ margin-left: 8px;
+}
+.sign-in-icon{
+    color: #ffff;
+    padding-left: 67px;
+}
+.picture-upload-button{
+    width: 30px;
+    /* min-width: 22px; */
+    border-radius: 19pc;
+    position: absolute;
+    top: 33%;
+    right: 13%;
+    height: 30px;
+    border: none;
+    background-color: #ffffffb5;
+}

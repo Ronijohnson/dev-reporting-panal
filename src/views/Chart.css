@@ -43,7 +43,7 @@
 .filter-button{
   height: 43px;
       border-radius: 5px;
-      background-color: #fff;
+      background-color: white;
       outline: none;
       margin-left: 22px;
       margin-top: 24px;
@@ -71,7 +71,7 @@
   font-weight: bold;
   font-weight: 500;
   color: #b3b3b3;
-  background-color: transparent;
+  background-color: white ;
 }
 .main-dashboard{
   background-color:#f7f7f7;

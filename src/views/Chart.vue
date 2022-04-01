@@ -1,7 +1,7 @@
 <template>
     <div  class="flex-view flex-direction-row">
        <div>
-           <h1>Vedio Reeports</h1>
+           <h1>Video Reports</h1>
           
        </div>
         <!-- <dashboard /> -->

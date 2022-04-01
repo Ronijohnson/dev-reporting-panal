@@ -46,13 +46,14 @@
   .filter-button{
     height: 43px;
         border-radius: 5px;
-        background-color: #ced4da;
+        background-color: rgb(255, 255, 255);
         outline: none;
         margin-left: 39px;
         margin-top: 15px;
         outline: none;
         border: none;
         width: 100%;
+        box-shadow: 0px 3px 6px #0000000f;
   }
 .filter-icon{
     color: #b3b3b3;

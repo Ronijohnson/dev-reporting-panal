@@ -3,21 +3,24 @@
     <div class="sidebar-logo">
       <img class="nplogo" src="../assets/NpWhite.svg" alt />
     </div>
-    <!-- <div class="sidebar-title">Reporting panel</div> -->
     <ul class="sidebar-list">
-      <!-- <li class="sidebar-list-item">
-                 <img class="nplogo" src="../assets/NpWhite.svg" alt="">
-                Dashboard
-      </li>-->
-      <li class="sidebar-list-item">
+
+      <router-link to= "/"  style="    text-decoration: none;" >
+        <li class="sidebar-list-item">
         <img class="dash-box-icon" src="../assets/dash_icon.svg" />Dashboard
       </li>
-      <li class="sidebar-list-item">
-        <img class="dash-box-icon" src="../assets/vr-icon.svg" /> Vedio Reports
-      </li>
-      <li class="sidebar-list-item">
+      </router-link>
+      
+      <router-link to="/about" style="    text-decoration: none;"><li class="sidebar-list-item">
+        <img class="dash-box-icon" src="../assets/vr-icon.svg" /> Videos Reports
+      </li></router-link>
+      
+     <router-link to="/comments" style="text-decoration:none;">
+       
+        <li class="sidebar-list-item">
         <img class="dash-box-icon" src="../assets/comment-icon.svg" /> Comments Reports
       </li>
+       </router-link>
       <li class="sidebar-list-item">
         <img class="dash-box-icon" src="../assets/star-icon.svg" />User Feedback
       </li>
@@ -40,7 +43,17 @@
 <script>
 export default {
   name: "sidebar",
+
+
+data(){
+  return{
+  
+  }
+}
+
 };
+
+
 </script>
 
 
